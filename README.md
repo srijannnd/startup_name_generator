@@ -4,7 +4,8 @@ Flutter project Boilerplate.
 
 ## Getting Started
 
-A small project made by following Flutter Docs tutorial. Folder structure is also implemented and this project can be used as a Boilerplate for other Projects.
+A small project made by following Flutter Docs tutorial. 
+Folder structure is also implemented and this project can be used as a Boilerplate for other Projects.
 
 Resources:
 
