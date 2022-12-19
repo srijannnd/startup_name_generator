@@ -1,12 +1,12 @@
-# my_app
+# Startup Name Generator
 
-A new Flutter project.
+Flutter project Boilerplate.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A small project made by following Flutter Docs tutorial. Folder structure is also implemented and this project can be used as a Boilerplate for other Projects.
 
-A few resources to get you started if this is your first Flutter project:
+Resources:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
